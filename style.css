@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "DM Sans";
+}
+
+/* Styling for Hero Section */
+.hero_section {
+    display: flex;
+}
+
+.hero_box {
+    width: 50%;
+}
+
+.hero_box_first_half {
+    margin-left: 7%;
+    margin-top: 10%;
+}
+
+.time_is_up {
+    margin-bottom: 5%;
+    text-transform: uppercase;
+}
+
+.hungry {
+    margin-bottom: 5%;
+    font-size: 5.5rem;
+}
+
+.tired {
+    width: 80%;
+    color: blue;
+}
+
+.food {
+    width: 100%;
+    height: 100vh;
+}
